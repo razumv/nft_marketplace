@@ -79,3 +79,11 @@ This contract is licensed under the MIT License - see the [LICENSE](LICENSE) fil
 ```
 
 Please replace placeholders like `nft_collection`, `token_id`, `payment_token`, `listing_price`, etc., with actual variable names or explanations based on the contract implementation. Additionally, make sure to customize the README to accurately reflect the specifics of your contract.
+
+The decision to embark on my project within the StarkNet ecosystem is underpinned by the recognition of the immense potential I foresee in its unique approach and cutting-edge technologies. What captivates me most is not just the existing framework but the untapped possibilities and uncharted territories that my project can explore and pioneer.
+
+In crafting my project, I aim to channel this potential into a tangible and groundbreaking initiative. The emphasis will be on leveraging StarkNet's advanced features to create a platform that goes beyond the ordinary—an ecosystem that not only supports but propels developers towards unprecedented heights of creativity. I started from creating simple NFT contract and continue creating utils contract, collabing with people who build marketplaces.
+
+My vision for the project extends beyond the conventional boundaries, focusing on the innovative applications and solutions that can emerge within this dynamic ecosystem. I am dedicated to building not just a project but a catalyst for transformative change, with a keen focus on unlocking the full spectrum of opportunities StarkNet has to offer.
+
+In the development journey, my strategy revolves around harnessing the technological capabilities of StarkNet to build not just a product but an ever-evolving ecosystem. By fostering an environment that encourages continual exploration and innovation, I aim to create a project that stands as a testament to the boundless potential of StarkNet and the creative endeavors it can inspire.
